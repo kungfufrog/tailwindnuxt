@@ -10,6 +10,14 @@ class TailwindExtractor {
 
 
 module.exports = {
+
+  env: {
+    CTF_SPACE_ID: '13a5i9k1tzk1',
+    CTF_CDA_ACCESS_TOKEN: '6ffb6838228a5e0ff704461848ad0852c7154a3f457e73f9f6c89eea33d005b1',
+//  CTF_PERSON_ID: config.CTF_PERSON_ID,
+ //   CTF_BLOG_POST_TYPE_ID: config.CTF_BLOG_POST_TYPE_ID
+  },
+
   /*
   ** Headers of the page
   */
